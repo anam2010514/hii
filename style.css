@@ -1,0 +1,31 @@
+body{
+    background-color: aliceblue;
+}
+.heading {
+    width: 100%;
+    font-size: 23px;
+    margin: 20px;
+    box-shadow: 5px 5px 5px grey;
+    }
+    .note{
+        font-size: 15px;
+        color:black;
+    }
+    .copyrightfooter{
+        font-size: 13px;
+        position: fixed;
+        bottom: 0;
+        background-color: blue;
+        color: red;
+        width: 100%;
+        text-align: center;
+    }
+    canvas{
+        border-style: solid;
+        border-color:blue;
+        border-width: 10px;
+        border-radius: 20px;
+        box-shadow:5px 5px 5px silver;
+        background-color: red;
+        
+    }
